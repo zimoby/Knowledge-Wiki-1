@@ -2,6 +2,8 @@
 
 Здесь я соберу все значимые мне материалы по компьютерной графике, анимации и creative coding
 
+[TOC]
+
 ## Похожие курируемые списки
 
 - [Awesome Motion Design by Tony Pinkevych](https://blog.untimestudio.com/awesome-motion-design-and-animation-9c792b417f9e)
@@ -22,5 +24,3 @@
 ### Инструменты работы с референсами
 
 - [Pure Ref](https://www.pureref.com/)
-
-
