@@ -12,3 +12,15 @@ MacOS - [Homebrew](https://brew.sh//)
 
 ## MacOS
 
+Стэк тулзов для работы с видео и графикой
+
+- Terminal
+- FFmpeg
+
+
+## Софт для работы с компьютерной графикой
+
+- After Effects
+- Cinema4D
+- Blender
+
