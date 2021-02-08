@@ -1,25 +1,8 @@
-# Initial page
+# ✨Hello Page
 
-## Getting Super Powers
+Всем пример, меня зовут [Денис Бондарцов](https://www.facebook.com/zimoby/), я [Моушн Дизайнер](https://vimeo.com/manage/248455672/general). На этом сайте я буду систематизировать свои знания, с упором в сферу видеографики и дизайна. На объективность и глубину не рассчитываю, только то, что самому интересно и полезно. С одной стороны накопился опыт которым хочется поделиться, с другой просто любовь к систематизации информации. И свою голову привести в порядок, и хорошо если кому-то еще пригодится.
 
-Becoming a super hero is a fairly straight forward process:
+Вдохновился этими ребятами:
 
-```
-$ give me super-powers
-```
-
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
-
-Once you're strong enough, save the world:
-
-{% code title="hello.sh" %}
-```bash
-# Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-{% endcode %}
-
-
-
+* [nosleepcreative](https://docs.nosleepcreative.com/)
+* [Matthew Law](https://bitbucket.org/foughtthelaw/_creative-resources/src/master/)
