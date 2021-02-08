@@ -1,8 +1,15 @@
 # Table of contents
 
 * [Initial page](README.md)
-* [Test page](test_page.md)
 
-## After Effects
+## OS Stuff
 
-* [Test After Effects Page](afterEffects_CommonPage.md)
+* [Soft](soft.md)
+
+## Motion Design
+
+* [Awesome Motion Design](amd1.md)
+* [Freebies](freebies.md)
+* [After Effects](afterEffects_CommonPage.md)
+
+
