@@ -20,6 +20,13 @@
 
 * [Pinterest](https://www.pinterest.com/)
 * [Same Energy](https://same.energy/)
+* [Arena](https://www.are.na/) - курируемые коллекции картинок, веб-страниц и текста. Минус что нет рекомендуемого похожего контента (2021.02) 
+* [Instagram](https://instagram.com/)
+* [Dribbble](https://dribbble.com/) - аккуратней с [дриблизацией](https://www.intercom.com/blog/the-dribbblisation-of-design/)
+* [Behance](https://www.behance.net/) - больше про поиск хороших проектов, с подробным описанием процесса создания и деталей
+
+> А вот на [этой странице](motion-design/inspiration_profiles.md) можно найти на кого подписаться.
+
 
 ### Инструменты работы с референсами
 

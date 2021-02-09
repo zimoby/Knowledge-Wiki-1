@@ -9,5 +9,7 @@
 ## Motion Design
 
 * [Awesome Motion Design](motion-design/amd1.md)
+* [Inspiration Profiles](motion-design/inspiration_profiles.md)
 * [Freebies](motion-design/freebies.md)
 * [After Effects](motion-design/aftereffects_commonpage.md)
+* [Expressions](motion-design/expressions1.md)
