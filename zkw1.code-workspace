@@ -4,5 +4,19 @@
 			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {
+		"cSpell.language": ",ru",
+		"cSpell.words": [
+			"arena",
+			"coding",
+			"creative",
+			"effects",
+			"inspiration",
+			"motion",
+			"pinterest",
+			"profiles",
+			"pure",
+			"same"
+		]
+	}
 }
