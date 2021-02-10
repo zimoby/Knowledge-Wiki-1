@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "motion-design/expressions1.md",
+            "file": "README.md",
             "mode": "source"
           }
         }
@@ -69,12 +69,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "motion-design/expressions1.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -86,10 +86,11 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "README.md",
+    "SUMMARY.md",
+    "motiondesign.school.md",
     "motion-design/expressions1.md",
     "motion-design/freebies.md",
-    "Untitled.md",
-    "SUMMARY.md",
-    "README.md"
+    "Untitled.md"
   ]
 }
