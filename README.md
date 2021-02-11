@@ -6,12 +6,12 @@
 * [nosleepcreative](https://docs.nosleepcreative.com/)
 * [Matthew Law](https://bitbucket.org/foughtthelaw/_creative-resources/src/master/)
 
-## Система управлением персональных знаний
+## Система управлением персональных знаний (PKM)
 ### Links
-[PKM Primer: An Introduction to Personal Knowledge Management for Creatives](https://thesweetsetup.com/pkm-intro-for-creatives/)
+[PKM Primer: An Introduction to Personal Knowledge Management for Creatives](https://thesweetsetup.com/pkm-intro-for-creatives/) - пост о том, что это такое, и с помощью чего такие системы делают
 
 ## Чем эта PKM не является
 
 * Это не полное и детальное руководство по всем темам. Короткие выжимки и ссылки на другие ресурсы.
 * Это не блог с сотней постов разрозненных по времени, вся структура максимально друг с другом взаимосвязана и постоянно обновляется.
-* Это не личный дневник с рефлексией.
+* Это не личный дневник с рефлексией(ну может немного).

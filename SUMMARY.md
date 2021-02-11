@@ -14,3 +14,8 @@
 * [Freebies](motion-design/freebies.md)
 * [After Effects](motion-design/aftereffects_commonpage.md)
 * [Expressions](motion-design/expressions1.md)
+
+## EduTech
+
+* [How to learning](edu/how-start-to-learn.md)
+* [Tricks & Hacks](edu/tricks-&-Hacks.md)

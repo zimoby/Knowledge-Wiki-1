@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "motion-design/expressions1.md",
             "mode": "source"
           }
         }
@@ -69,12 +69,23 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "motion-design/expressions1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d47e60b6bd3d1164",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
           }
@@ -86,11 +97,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "README.md",
-    "SUMMARY.md",
-    "motiondesign.school.md",
     "motion-design/expressions1.md",
-    "motion-design/freebies.md",
+    "motion-design/amd1.md",
+    "motion-design/aftereffects_commonpage.md",
+    "edu/tricks-&-Hacks.md",
+    "edu/how-start-to-learn.md",
+    "edu/edu-example.md",
+    "SUMMARY.md",
+    "edu/Tricks & Hacks.md",
+    "Tricks & Hacks.md",
     "Untitled.md"
   ]
 }
