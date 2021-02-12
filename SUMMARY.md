@@ -17,5 +17,5 @@
 
 ## EduTech
 
-* [How to learning](edu/how-start-to-learn.md)
-* [Tricks & Hacks](edu/tricks-&-Hacks.md)
+* [How to learning]()
+* [Tricks & Hacks]()
