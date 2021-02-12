@@ -14,8 +14,11 @@
 * [Freebies](motion-design/freebies.md)
 * [After Effects](motion-design/aftereffects_commonpage.md)
 * [Expressions](motion-design/expressions1.md)
+* [Production](motion-design/production.md)
+    * [Steps](motion-design/production.md)
+    * [Illustration](motion-design/illustration.md)
 
 ## EduTech
 
-* [How to learning]()
-* [Tricks & Hacks]()
+* [How to learning](edu/how-start-to-learn.md)
+* [Tricks & Hacks](edu/tricks-&-Hacks.md)
