@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SUMMARY.md",
+            "file": "motion-design/aftereffects_commonpage.md",
             "mode": "source"
           }
         }
@@ -69,17 +69,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "motion-design/aftereffects_commonpage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
           {
-            "id": "d47e60b6bd3d1164",
+            "id": "2acecc34b1417871",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -97,15 +97,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "motion-design/aftereffects_commonpage.md",
     "SUMMARY.md",
-    "SUMMARY_Draft.md",
     "README.md",
-    "notes-reflex/2021-02-10.md",
-    "notes-reflex/2021-02-11.md",
+    "os-stuff/soft.md",
     "motion-design/expressions1.md",
     "motion-design/amd1.md",
-    "motion-design/aftereffects_commonpage.md",
-    "edu/tricks-&-Hacks.md",
+    "motion-design/freebies.md",
+    "motion-design/inspiration_profiles.md",
+    "motion-design/motion-design_roadmap.md",
     "edu/how-start-to-learn.md"
   ]
 }
