@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Hello Page](README.md)
+* [About me](about.md)
 
 ## OS Stuff
 
@@ -18,8 +19,10 @@
 * [Production Steps](motion-design/production-steps.md)
 * [Diff Soft](motion-design/dif-soft.md)
   * [Houdini](motion-design/Houdini1.md)
+  * [Blender](motion-design/blender1.md)
 
 ## EduTech
 
 * [How to learning](edu/how-start-to-learn.md)
 * [Tricks & Hacks](edu/tricks-&-Hacks.md)
+

@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "motion-design/aftereffects_commonpage.md",
+            "file": "SUMMARY.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "motion-design/aftereffects_commonpage.md",
+                "file": "SUMMARY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "motion-design/aftereffects_commonpage.md",
     "SUMMARY.md",
+    "SUMMARY_Draft.md",
     "README.md",
+    "motion-design/aftereffects_commonpage.md",
     "os-stuff/soft.md",
     "motion-design/expressions1.md",
     "motion-design/amd1.md",
     "motion-design/freebies.md",
     "motion-design/inspiration_profiles.md",
-    "motion-design/motion-design_roadmap.md",
-    "edu/how-start-to-learn.md"
+    "motion-design/motion-design_roadmap.md"
   ]
 }
