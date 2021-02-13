@@ -12,19 +12,17 @@
 
 * Проверка локальных установок
 
-```
+```cmd
 choco list --localonly   
 ```
 
 * обновление всего установленного софта
 
-```
+```cmd
 choco upgrade all -y
 ```
 
-## [Homebrew](https://brew.sh//) - macOS 
-
-
+## [Homebrew](https://brew.sh//) - macOS
 
 ## Софт для работы с компьютерной графикой
 
@@ -46,14 +44,12 @@ choco upgrade all -y
 * Media Encoder
 * HandBrake
 
-
 ## Command Line Tools
 
 ### Все платформы
 
 * FFmpeg
 * ImageMagick
-
 
 ## Random Stuff
 
