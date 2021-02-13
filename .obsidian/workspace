@@ -1,0 +1,111 @@
+{
+  "main": {
+    "id": "6d6dab7caa3a9840",
+    "type": "split",
+    "children": [
+      {
+        "id": "81d980789af82171",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "motion-design/aftereffects_commonpage.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0cfd849c4ab83a9c",
+    "type": "split",
+    "children": [
+      {
+        "id": "688684ef20a86e20",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55b626da965a7eaa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "79914f1bfac62a94",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "694aee168c139c21",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5c4556de67d409a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cfa91583e4310b9e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "motion-design/aftereffects_commonpage.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "2acecc34b1417871",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "motion-design/aftereffects_commonpage.md",
+    "SUMMARY.md",
+    "README.md",
+    "os-stuff/soft.md",
+    "motion-design/expressions1.md",
+    "motion-design/amd1.md",
+    "motion-design/freebies.md",
+    "motion-design/inspiration_profiles.md",
+    "motion-design/motion-design_roadmap.md",
+    "edu/how-start-to-learn.md"
+  ]
+}

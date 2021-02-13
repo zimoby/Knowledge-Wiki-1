@@ -4,5 +4,26 @@
 			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {
+		"cSpell.language": ",ru",
+		"cSpell.words": [
+			"arena",
+			"behance",
+			"choose",
+			"coding",
+			"creative",
+			"dribbble",
+			"effects",
+			"hello",
+			"inspiration",
+			"moodboard",
+			"motion",
+			"page",
+			"pinterest",
+			"profiles",
+			"pure",
+			"same",
+			"your"
+		]
+	}
 }
