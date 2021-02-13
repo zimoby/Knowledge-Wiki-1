@@ -63,6 +63,7 @@ choco upgrade all -y
 * fman
 * zxp installer
 
+
 * 1password
 * 7zip
 * adobe-creative-cloud
