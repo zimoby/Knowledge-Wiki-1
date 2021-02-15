@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -74,12 +75,12 @@
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "2acecc34b1417871",
+            "id": "d47e60b6bd3d1164",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -100,12 +101,12 @@
     "SUMMARY.md",
     "SUMMARY_Draft.md",
     "README.md",
-    "motion-design/aftereffects_commonpage.md",
-    "os-stuff/soft.md",
+    "notes-reflex/2021-02-10.md",
+    "notes-reflex/2021-02-11.md",
     "motion-design/expressions1.md",
     "motion-design/amd1.md",
-    "motion-design/freebies.md",
-    "motion-design/inspiration_profiles.md",
-    "motion-design/motion-design_roadmap.md"
+    "motion-design/aftereffects_commonpage.md",
+    "edu/tricks-&-Hacks.md",
+    "edu/how-start-to-learn.md"
   ]
 }
