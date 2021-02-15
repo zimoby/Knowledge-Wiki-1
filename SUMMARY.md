@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Hello Page](README.md)
-* [About me](about.md)
+<!-- * [About me](about.md) -->
 
 ## OS Stuff
 
@@ -14,6 +14,7 @@
 * [Freebies](motion-design/freebies.md)
 * [After Effects](motion-design/aftereffects_commonpage.md)
   * [Expressions](motion-design/expressions1.md)
+  * [Scripts](motion-design/scripts-kbar.md)
   <!-- * [Problem Solving](motion-design/expressions1.md) -->
   * [Import Illustrations](motion-design/illustration.md)
 * [Production Steps](motion-design/production-steps.md)
