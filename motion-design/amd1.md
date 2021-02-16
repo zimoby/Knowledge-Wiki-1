@@ -9,6 +9,7 @@
 * [Awesome Motion Design by Tony Pinkevych](https://blog.untimestudio.com/awesome-motion-design-and-animation-9c792b417f9e)
 * [\_Creative-Resources by Matthew Law](https://bitbucket.org/foughtthelaw/_creative-resources/src/master/)
 * [Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding)
+* [Useful Resources For Artists, My Personal Uber Collection](https://www.creativeshrimp.com/resources.html)
 
 ------
 

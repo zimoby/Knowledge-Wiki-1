@@ -19,6 +19,7 @@
   * [Import Illustrations](motion-design/illustration.md)
 * [Production Steps](motion-design/production-steps.md)
 * [Diff Soft](motion-design/dif-soft.md)
+  * [Cavalry](motion-design\cavalry.md)
   * [Houdini](motion-design/Houdini1.md)
   * [Blender](motion-design/blender1.md)
 

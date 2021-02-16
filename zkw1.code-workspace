@@ -24,6 +24,8 @@
 			"pure",
 			"same",
 			"your"
-		]
+		],
+		"vim.useSystemClipboard": true,
+		"vim.useCtrlKeys": true
 	}
 }
