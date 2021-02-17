@@ -18,7 +18,7 @@
 
 ```javascript
 app.beginUndoGroup('rename'); {
-    var sortingType = "shapes";
+    var sortingType = "all"; // shapes
     var newShapeName = "handL"
     var copyLayerName = true;
     var numbering = true;
@@ -57,7 +57,7 @@ function sortingInstance(inst){
     var currentComp = app.project.activeItem;
     var arrayLayers = currentComp.selectedLayers;
     var sortingLayers = [];
-    if (instLayer != "shapes") {
+    if (instLayer == "shapes") {
         for (var i in arrayLayers) {
             if (arrayLayers[i] instanceof ShapeLayer) sortingLayers.push(arrayLayers[i]);
         };

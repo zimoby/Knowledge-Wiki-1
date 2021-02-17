@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SUMMARY.md",
+            "file": "motion-design/scripts-kbar.md",
             "mode": "source"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "motion-design/scripts-kbar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +98,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "motion-design/scripts-kbar.md",
     "SUMMARY.md",
     "SUMMARY_Draft.md",
     "README.md",
@@ -106,7 +107,6 @@
     "motion-design/expressions1.md",
     "motion-design/amd1.md",
     "motion-design/aftereffects_commonpage.md",
-    "edu/tricks-&-Hacks.md",
-    "edu/how-start-to-learn.md"
+    "edu/tricks-&-Hacks.md"
   ]
 }
