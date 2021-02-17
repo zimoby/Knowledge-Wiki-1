@@ -8,12 +8,16 @@
 
 * [nosleepcreative](https://docs.nosleepcreative.com/)
 * [Matthew Law](https://bitbucket.org/foughtthelaw/_creative-resources/src/master/)
+* [Nikita Voloboev PKM](https://wiki.nikitavoloboev.xyz/)
+* [Devine Lu Linvega PKM](https://wiki.xxiivv.com/site/about.html)
 
 ## Система управлением персональных знаний (PKM)
 
 ### Links
 
 [PKM Primer: An Introduction to Personal Knowledge Management for Creatives](https://thesweetsetup.com/pkm-intro-for-creatives/) - пост о том, что это такое, и с помощью чего такие системы делают
+[Artificial Brain Networked notebook app](https://www.notion.so/Artificial-Brain-Networked-notebook-app-a131b468fc6f43218fb8105430304709) - курируемые списки инструментов для PKM
+[Second-Brain](https://github.com/neauoire/Second-Brain) - Списки персональных PKM
 
 ## Чем эта PKM не является
 
