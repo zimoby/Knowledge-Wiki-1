@@ -14,7 +14,11 @@
 
 Также добавлен фильтр выделенных слоев. Если в переменной sortingType написано "shapes", то из всех выделенных слоев остаются только шейповые, иначе будут переименоваты все слои.
 
-### Длинная форма
+> Такая версия скрипта у меня в основном применяется для наименования разных частей персонажей
+
+![image-20210218040924197](Assets/scripts-kbar/image-20210218040924197.png)
+
+{% tabs %} {% tab title="Длинная форма" %}
 
 ```javascript
 app.beginUndoGroup('rename'); {
@@ -68,7 +72,9 @@ function sortingInstance(inst){
 }
 ```
 
-### Короткая форма с ограниченным функционалом
+{% endtab %}
+
+{% tab title="Короткая форма с ограниченным функционалом" %}
 
 ```javascript
 app.beginUndoGroup('rename'); {
@@ -88,6 +94,8 @@ app.beginUndoGroup('rename'); {
     }
 } app.endUndoGroup();
 ```
+
+{% endtab %} {% endtabs %}
 
 ## Compositions
 

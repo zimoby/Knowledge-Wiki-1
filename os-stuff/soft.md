@@ -24,6 +24,10 @@ choco upgrade all -y
 
 ## [Homebrew](https://brew.sh//) - macOS
 
+## Альтернативы
+
+* [AlternativeTo](https://alternativeto.net/) — сервис поиска альтернативного софта и сервисов. С фильтрами по системам, платности и тд.
+
 ## Софт для работы с компьютерной графикой
 
 ### 2D & 3D Motion Design
@@ -58,7 +62,6 @@ choco upgrade all -y
 * cerebro
 * fman
 * zxp installer
-
 
 * 1password
 * 7zip
