@@ -25,6 +25,7 @@
 ### Windows + macOS
 
 * [aText](https://www.trankynam.com/atext/)
+* [Text Expander](https://textexpander.com/)
 
 ### Windows
 
