@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "motion-design/aftereffects_commonpage.md",
+            "file": "motion-design/scripts-kbar.md",
             "mode": "source"
           }
         }
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,17 +70,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "motion-design/aftereffects_commonpage.md",
+                "file": "motion-design/scripts-kbar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "2acecc34b1417871",
+            "id": "d47e60b6bd3d1164",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -97,15 +98,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "motion-design/aftereffects_commonpage.md",
+    "motion-design/scripts-kbar.md",
     "SUMMARY.md",
+    "SUMMARY_Draft.md",
     "README.md",
-    "os-stuff/soft.md",
+    "notes-reflex/2021-02-10.md",
+    "notes-reflex/2021-02-11.md",
     "motion-design/expressions1.md",
     "motion-design/amd1.md",
-    "motion-design/freebies.md",
-    "motion-design/inspiration_profiles.md",
-    "motion-design/motion-design_roadmap.md",
-    "edu/how-start-to-learn.md"
+    "motion-design/aftereffects_commonpage.md",
+    "edu/tricks-&-Hacks.md"
   ]
 }
