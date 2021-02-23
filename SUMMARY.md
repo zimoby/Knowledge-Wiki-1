@@ -34,3 +34,7 @@
 
 * [How to learning](edu/how-start-to-learn.md)
 * [Tricks & Hacks](edu/tricks-&-Hacks.md)
+
+## Разное
+
+* [Организация работы](diff/workflow.md)
