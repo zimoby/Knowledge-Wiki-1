@@ -54,6 +54,7 @@ choco upgrade all -y
 
 * FFmpeg
 * ImageMagick
+* youtube-dl
 
 ## Random Stuff
 
