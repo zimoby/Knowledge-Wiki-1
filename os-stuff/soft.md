@@ -22,7 +22,9 @@ choco list --localonly
 choco upgrade all -y
 ```
 
-## [Homebrew](https://brew.sh//) - macOS
+### [Homebrew](https://brew.sh//) - macOS
+
+---
 
 ## Альтернативы
 
@@ -33,10 +35,13 @@ choco upgrade all -y
 ### 2D & 3D Motion Design
 
 * After Effects
+  * aescripts + aeplugins
+  * zxp installer
 * Cinema4D
 * Blender
 * Toon Boom
 * Houdini
+* cavalry
 
 ### Photo \ Illustration
 
@@ -50,7 +55,7 @@ choco upgrade all -y
 
 ## Command Line Tools
 
-### Все платформы
+### Обработка видео и изображений
 
 * FFmpeg
 * ImageMagick
@@ -58,23 +63,31 @@ choco upgrade all -y
 
 ## Random Stuff
 
-* aescripts + aeplugins
-* cavalry
-* cerebro
-* fman
-* zxp installer
+### Утилиты для системы
 
 * 1password
+* fman
+* microsoft-windows-terminal
+* XnView
+
+#### Плееры
+
+* vlc
+* djv
+
+#### Работа с текстом
+
+* typora
+
+* cerebro
 * 7zip
 * adobe-creative-cloud
 * anki
 * autohotkey
-* blender
 * carnac
 * ccleaner
 * Cmder
 * copyq
-* djv
 * doublecmd
 * dropbox
 * ffmpeg
@@ -84,7 +97,6 @@ choco upgrade all -y
 * handbrake
 * iTunes
 * k-litecodecpackmega
-* microsoft-windows-terminal
 * notepadplusplus
 * notepadplusplus.install
 * obs
@@ -98,8 +110,52 @@ choco upgrade all -y
 * sharex
 * slack
 * toggl
-* typora
-* vlc
 * vscode
-* XnView
-* youtube-dl
+
+
+'''
+aescripts + aeplugins
+cavalry
+cerebro
+fman
+zxp installer
+1password
+7zip
+adobe-creative-cloud
+anki
+autohotkey
+blender
+carnac
+ccleaner
+Cmder
+copyq
+djv
+doublecmd
+dropbox
+ffmpeg
+Firefox
+github-desktop
+google-backup-and-sync
+handbrake
+iTunes
+k-litecodecpackmega
+microsoft-windows-terminal
+notepadplusplus
+notepadplusplus.install
+obs
+obs-studio
+ontopreplica
+pasteboard
+phraseexpress
+qbittorrent
+rescuetime
+reshack
+sharex
+slack
+toggl
+typora
+vlc
+vscode
+XnView
+youtube-dl
+'''

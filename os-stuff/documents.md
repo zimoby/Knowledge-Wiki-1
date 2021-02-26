@@ -12,7 +12,7 @@
 
 ## Soft
 
-* [Bear](https://thesweetsetup.com/apps/the-best-note-taking-apps-for-ios/)
+* [Bear](https://thesweetsetup.com/apps/the-best-note-taking-apps-for-ios/) - очень приятный и красивый заметочник. Выделяется своей системой с тегам и редактором и хорошими функциями.
 * [Obsidian](https://obsidian.md/)
 * [Draft](http://docs.withdraft.com/)
 * [Craft](https://thesweetsetup.com/using-craft-notes-for-study-and-preserving-long-term-knowledge//)

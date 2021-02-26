@@ -24,14 +24,12 @@
 
 ### Windows + macOS
 
-* [aText](https://www.trankynam.com/atext/)
+* [aText](https://www.trankynam.com/atext/) 
 * [Text Expander](https://textexpander.com/)
 
 ### Windows
 
 * [Phrase Express](https://www.phraseexpress.com/)
-
-### macOS
 
 ## Замена текста
 
