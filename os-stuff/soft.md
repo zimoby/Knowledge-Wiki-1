@@ -104,13 +104,13 @@ choco upgrade all -y
 * ontopreplica
 * pasteboard
 * phraseexpress
-* qbittorrent
+* qbittorrent — торрент менеджер
 * rescuetime
 * reshack
-* sharex
-* slack
-* toggl
-* vscode
+* sharex — бесплатный скриншотер с большими возможностями. Можно подключить свои облачные сервисы для хранения материала. Делает запись видео. 
+* slack — чат, мессенджер
+* toggl — таймтрекер для pomodoro техники
+* vscode — IDE, очень приятный редактор кода
 
 
 '''
