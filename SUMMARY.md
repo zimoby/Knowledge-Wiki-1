@@ -21,6 +21,7 @@
   <!-- * [Problem Solving](motion-design/expressions1.md) -->
   * [Import Illustrations](motion-design/illustration.md)
 * [Production Steps](motion-design/production-steps.md)
+* [Approaches](motion-design/approaches.md)
 * [Diff Soft](motion-design/dif-soft.md)
   * [Cavalry](motion-design/cavalry.md)
   * [Houdini](motion-design/Houdini1.md)
@@ -33,8 +34,10 @@
 ## EduTech
 
 <!-- * [How to learning](edu/how-start-to-learn.md)
-* [Tricks & Hacks](edu/tricks-&-Hacks.md) -->
+* [Tricks & Hacks](edu/tricks-&-Hacks.md)
+*  [learning-variations](edu/learning-variations.md) -->
 
 ## Разное
 
 * [Организация работы](diff/workflow.md)
+* [Улучшение процесса работы](diff/workflow-update.md) 
