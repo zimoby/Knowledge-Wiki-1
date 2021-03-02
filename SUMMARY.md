@@ -40,4 +40,4 @@
 ## Разное
 
 * [Организация работы](diff/workflow.md)
-* [Улучшение процесса работы](diff/workflow-update.md) 
+* [Улучшение процесса работы](diff/workflow-update.md)
