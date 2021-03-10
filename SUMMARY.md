@@ -18,7 +18,6 @@
   * [Expressions](motion-design/expressions1.md)
   * [Scripts](motion-design/scripts-kbar.md)
   * [Scripts Dev](motion-design/scripts-dev.md)
-  <!-- * [Problem Solving](motion-design/expressions1.md) -->
   * [Import Illustrations](motion-design/illustration.md)
 * [Production Steps](motion-design/production-steps.md)
 * [Approaches](motion-design/approaches.md)
