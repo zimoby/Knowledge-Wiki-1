@@ -35,7 +35,7 @@
 
 <!-- * [How to learning](edu/how-start-to-learn.md)
 * [Tricks & Hacks](edu/tricks-&-Hacks.md)
-*  [learning-variations](edu/learning-variations.md) -->
+* [learning-variations](edu/learning-variations.md) -->
 
 ## Разное
 
