@@ -4,13 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "81d980789af82171",
-        "type": "leaf",
-        "active": true,
-        "state": {
-          "type": "graph",
-          "state": {}
-        }
+        "id": "8cb341051d1f4108",
+        "type": "split",
+        "children": [
+          {
+            "id": "81d980789af82171",
+            "type": "leaf",
+            "dimension": 66.66666666666667,
+            "active": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "motion-design/aftereffects_commonpage.md",
+                "mode": "source"
+              }
+            },
+            "group": "a42d056e4acaec8f"
+          },
+          {
+            "id": "188653247c10fed1",
+            "type": "leaf",
+            "dimension": 33.333333333333336,
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "motion-design/aftereffects_commonpage.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            },
+            "group": "a42d056e4acaec8f"
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -66,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "motion-design/aftereffects_commonpage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,15 +123,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "motion-design/scripts-kbar.md",
-    "SUMMARY.md",
-    "SUMMARY_Draft.md",
-    "README.md",
-    "notes-reflex/2021-02-10.md",
-    "notes-reflex/2021-02-11.md",
-    "motion-design/expressions1.md",
-    "motion-design/amd1.md",
     "motion-design/aftereffects_commonpage.md",
-    "edu/tricks-&-Hacks.md"
+    "SUMMARY.md",
+    "README.md",
+    "diff/workflow.md",
+    "diff/workflow-update.md",
+    "creative-coding/programming.md",
+    "meta.md",
+    "tasks.md",
+    "os-stuff/documents.md",
+    "os-stuff/soft.md"
   ]
 }

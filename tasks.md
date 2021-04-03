@@ -9,3 +9,4 @@
     * наверно дописывать небольшие пояснения и ссылки на них
 * [x] [How to learning](edu/how-start-to-learn.md) - объединить старые заметки с новыми
 * [Tricks & Hacks](edu/tricks-&-Hacks.md)
+* наполнить чем-то Inspiration Profiles?
