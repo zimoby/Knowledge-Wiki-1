@@ -4,43 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8cb341051d1f4108",
-        "type": "split",
-        "children": [
-          {
-            "id": "81d980789af82171",
-            "type": "leaf",
-            "dimension": 66.66666666666667,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source"
-              }
-            },
-            "group": "a42d056e4acaec8f"
-          },
-          {
-            "id": "188653247c10fed1",
-            "type": "leaf",
-            "dimension": 33.333333333333336,
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "README.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            },
-            "group": "a42d056e4acaec8f"
+        "id": "81d980789af82171",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "os-stuff/Doc Processing.md",
+            "mode": "source"
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -96,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "os-stuff/Doc Processing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,15 +99,15 @@
   },
   "active": "81d980789af82171",
   "lastOpenFiles": [
-    "README.md",
-    "about.md",
-    "meta.md",
-    "motion-design/aftereffects_commonpage.md",
-    "SUMMARY.md",
-    "diff/workflow.md",
-    "diff/workflow-update.md",
+    "os-stuff/Doc Processing.md",
+    "os-stuff/documents.md",
+    "os-stuff/Image Processing.md",
+    "os-stuff/documents 1.md",
+    "os-stuff/soft.md",
+    "os-stuff/automation-common.md",
+    "edu/learning-variations.md",
+    "motion-design/cinema4d_xpresso.md",
     "creative-coding/programming.md",
-    "tasks.md",
-    "os-stuff/documents.md"
+    "diff/workflow.md"
   ]
 }
