@@ -8,6 +8,8 @@
 * [Soft](os-stuff/soft.md)
 * [Automation](os-stuff/automation-common.md)
 * [Text](os-stuff/documents.md)
+* [Doc Processing](os-stuff/Doc Processing.md)
+* [Image Processing](os-stuff/Image Processing.md)
 
 ## Motion Design
 
@@ -33,10 +35,11 @@
 ## EduTech
 
 <!-- * [How to learning](edu/how-start-to-learn.md)
+
 * [Tricks & Hacks](edu/tricks-&-Hacks.md)
 * [learning-variations](edu/learning-variations.md) -->
 
-## Разное
+## Diff
 
 * [Организация работы](diff/workflow.md)
 * [Улучшение процесса работы](diff/workflow-update.md)

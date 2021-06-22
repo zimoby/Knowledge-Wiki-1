@@ -3,4 +3,3 @@
 * [Структура PKM](SUMMARY.md)
 * [Страница приветствия](README.md)
 * [Задачи по ZKW](tasks.md)
-  
